@@ -1,0 +1,151 @@
+{
+  "db" : [
+    {
+      "produs" : [
+        {
+          "id" : "amaretto",
+          "info_src" : "imagini/torturi/Amaretto.jpeg",
+          "info_nume" : "Amaretto",
+          "info_pret" : "120 lei/kg",
+          "info_descriere" : "Un tort rafinat, cu blaturi însiropate de cacao sau vanilie, mousse de ciocolată neagră italiană 55% cacao și amaretto, mousse de mascarpone și migdale crocante"
+        },
+
+        {
+          "id" : "amandina",
+          "info_src" : "imagini/torturi/Amandina.jpeg",
+          "info_nume" : "Amandină",
+          "info_pret" : "130 lei/kg",
+          "info_descriere" : "Amandină de la Sky, un tort clasic cu gust modern. Blaturi de cacao însiropate, cremă de ciocolată neagra italiană, unt 82% grăsime, rom"
+        },
+
+        {
+          "id" : "forest",
+          "info_src" : "imagini/torturi/Black_forest.jpeg",
+          "info_nume" : "Black Forest",
+          "info_pret" : "100 lei/kg",
+          "info_descriere" : "Tortul Black Forest are blaturi de cacao însiropate cu lichior de vișine, mousse de ciocolată albă sau ciocolată cu lapte italiană cu straciatella și mousse de vișine"
+        },
+
+        {
+          "id" : "banana",
+          "info_src" : "imagini/torturi/Choco-banana.jpeg",
+          "info_nume" : "Choco Banana",
+          "info_pret" : "125 lei/kg",
+          "info_descriere" : "Un tort spectaculos, cu blaturi de cacao însiropate, mousse de ciocolată neagră italiană, crocant de alune caramelizate și mousse de banane proaspete"
+        },
+
+        {
+          "id" : "diplomat",
+          "info_src" : "imagini/torturi/Diplomat.jpeg",
+          "info_nume" : "Diplomat",
+          "info_pret" : "135 lei/kg",
+          "info_descriere" : "Tort Diplomat, un desert ce poate fi abordat clasic sau reinterpretat într-o notă mai modernă, în funcție de gusturi. Are blaturi cu pișcoturi, șarlotă de vanilie cu frișcă naturală din smântână"
+        },
+
+        {
+          "id" : "tiramisu",
+          "info_src" : "imagini/torturi/Tiramisu.jpeg",
+          "info_nume" : "Tiramisu",
+          "info_pret" : "150 lei/kg",
+          "info_descriere" : "Blaturi de ciocolată însiropate cu espresso și Baileys, mousse de ciocolată neagră italiană și pastă de cafea, mousse fin de mascarpone cu vanilie sau mousse fin de mascarpone cu scorțișoară"
+        },
+
+        {
+          "id" : "cheese",
+          "info_src" : "imagini/prajituri/Cheesecake.jpeg",
+          "info_nume" : "Cheesecake",
+          "info_pret" : "15 lei/100g",
+          "info_descriere" : "Un cheesecake este mereu o idee bună. Îl facem cu blat de biscuiți digestivi, cu unt 82% grăsime, umplutură de cremă de brânză, smântână, ouă, vanilie, diverse toppinguri de jeleuri de fructe, fructe proaspete de sezon sau ganache de ciocolată italiană."
+        },
+
+        {
+          "id" : "pavlova_ch",
+          "info_src" : "imagini/prajituri/Pavlova-choco.jpeg",
+          "info_nume" : "Pavlova cu ciocolată",
+          "info_pret" : "10 lei/100g",
+          "info_descriere" : "Blat crocant de bezea, cremă fină de ciocolată neagră italiană, decorat cu fructe proaspete de pădure sau de sezon."
+        },
+
+        {
+          "id" : "pavlova_vl",
+          "info_src" : "imagini/prajituri/Pavlova.jpg",
+          "info_nume" : "Pavlova cu vanilie",
+          "info_pret" : "10 lei/100g",
+          "info_descriere" : "Blat crocant de bezea, cremă fină de vanilie, decorat cu fructe proaspete de pădure sau de sezon."
+        },
+
+        {
+          "id" : "tarte",
+          "info_src" : "imagini/prajituri/Tarte.jpg",
+          "info_nume" : "Mini tarte",
+          "info_pret" : "10 lei/100g",
+          "info_descriere" : "Aceste mini-tarte sunt dintr-un aluat fraged ușor crocant umplut cu crema de patiserie de vanilie, ciocolată italiană sau lămâie și bezea."
+        },
+
+        {
+          "id" : "briose",
+          "info_src" : "imagini/prajituri/Briose.jpeg",
+          "info_nume" : "Brioșe",
+          "info_pret" : "12 lei/100g",
+          "info_descriere" : "Brioșe pufoase de ciocolată sau vanilie, diverse sortimente, decorate cu cremă de mascarpone sau de ciocolată italiană."
+        },
+
+        {
+          "id" : "brownie",
+          "info_src" : "imagini/prajituri/Brownie.jpeg",
+          "info_nume" : "Brownie",
+          "info_pret" : "11 lei/100g",
+          "info_descriere" : "Blat cu ciocolată neagră italiană, unt 82% grăsime, ouă, cacao, vanilie, cu cremă de branză și portocale sau cu merișoare și nucă"
+        },
+
+        {
+          "id" : "saratele",
+          "info_src" : "imagini/patiserie/saratele.jpg",
+          "info_nume" : "Sărățele",
+          "info_pret" : "9 lei/100g",
+          "info_descriere" : "Sărățelele sunt perfecte atunci când ai poftă de o gustare ușor sărată, mai ales că aluatul fraged parcă ți se topește în gură. Cu mac, susan, brânză, cașcaval sau de post, sunt la fel de bune atunci când le mănânci calde, cât și reci."
+        },
+
+        {
+          "id" : "strudel",
+          "info_src" : "imagini/patiserie/strudel.jpg",
+          "info_nume" : "Ștrudel cu mere",
+          "info_pret" : "3 lei/bucata",
+          "info_descriere" : "O umplutură bogată din mere crescute în mijlocul naturii, învelită într-un aluat copt, crocant, de un rumen apetisant. Îți va bucura gustul ce de mult așteaptă să fie răsfățat cu un deliciu."
+        },
+
+        {
+          "id" : "polonez",
+          "info_src" : "imagini/patiserie/polonez.jpg",
+          "info_nume" : "Covrig polonez",
+          "info_pret" : "2,5 lei/bucata",
+          "info_descriere" : "Un aluat pufos și moale, scufundat într-un sirop dulce și aromat cu esență pură de vanilie. Textura de aluat de covrig este îmbrăcată atât de armonios în gustul de desert, încât te vei bucura de o savoare unică."
+        },
+
+        {
+          "id" : "covrig",
+          "info_src" : "imagini/patiserie/covrig.jpg",
+          "info_nume" : "Covrig cu semințe",
+          "info_pret" : "1,5 lei/bucata",
+          "info_descriere" : "De la aspectul rumen apetisant, la sunetul plăcut al crănțănitului de semințe și la gustul plin de savoare, covrigul cu semințe le are pe toate. Combinația delicioasă între covrigul preparat cu făină de grâu și mixul de semințe face această gustare cu totul specială."
+        },
+
+        {
+          "id" : "visine",
+          "info_src" : "imagini/patiserie/c_visine.jpg",
+          "info_nume" : "Covrig cu umplutură de vișine",
+          "info_pret" : "2,5 lei/bucata",
+          "info_descriere" : "Gustul autentic al unui covrig proaspăt și pufos, desăvârșit de o umplutură delicioasă de vișine, scoasă parcă din cămara cu bunătăți tradiționale. O gustare de o simplitate atât de savuroasă încât te vei bucura de ea îmbucătură cu îmbucătură."
+        },
+
+        {
+          "id" : "c_cioco",
+          "info_src" : "imagini/patiserie/c_cioco.jpg",
+          "info_nume" : "Covrig cu umplutură de ciocolată",
+          "info_pret" : "2,5 lei/bucata",
+          "info_descriere" : "Covrigul cu ciocolată este acea îmbucătură delicioasă ce bucură gusturile iubitoare de dulce. Un aluat pufos din făină de grâu, umplut cu ciocolată fină, răsucit cu grijă și rumenit cu răbdare."
+        }
+      ]
+    }
+  ]
+}
